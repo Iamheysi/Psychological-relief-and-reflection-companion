@@ -1,0 +1,104 @@
+{
+  "version": "2026-05-15",
+  "review_due": "2026-08-15",
+  "international_fallback": {
+    "name": "Befrienders Worldwide",
+    "url": "https://befrienders.org/find-support-now/",
+    "description": {
+      "en": "Find a crisis line near you, anywhere in the world.",
+      "ru": "Найдите кризисную линию рядом с вами в любой точке мира."
+    }
+  },
+  "countries": {
+    "RU": {
+      "name_en": "Russia",
+      "name_ru": "Россия",
+      "lines": [
+        {
+          "name": "Единый телефон доверия для детей и взрослых",
+          "phone": "8-800-2000-122",
+          "hours": "24/7",
+          "lang": "ru"
+        },
+        {
+          "name": "Московская служба психологической помощи",
+          "phone": "051",
+          "hours": "24/7",
+          "lang": "ru"
+        }
+      ]
+    },
+    "US": {
+      "name_en": "United States",
+      "name_ru": "США",
+      "lines": [
+        {
+          "name": "988 Suicide & Crisis Lifeline",
+          "phone": "988",
+          "hours": "24/7",
+          "lang": "en"
+        },
+        {
+          "name": "Crisis Text Line",
+          "text": "HOME to 741741",
+          "hours": "24/7",
+          "lang": "en"
+        }
+      ]
+    },
+    "GB": {
+      "name_en": "United Kingdom",
+      "name_ru": "Великобритания",
+      "lines": [
+        {
+          "name": "Samaritans",
+          "phone": "116 123",
+          "hours": "24/7",
+          "lang": "en"
+        },
+        {
+          "name": "Shout (text)",
+          "text": "SHOUT to 85258",
+          "hours": "24/7",
+          "lang": "en"
+        }
+      ]
+    },
+    "DE": {
+      "name_en": "Germany",
+      "name_ru": "Германия",
+      "lines": [
+        {
+          "name": "Telefonseelsorge",
+          "phone": "0800 111 0 111",
+          "hours": "24/7",
+          "lang": "de"
+        }
+      ]
+    },
+    "FR": {
+      "name_en": "France",
+      "name_ru": "Франция",
+      "lines": [
+        {
+          "name": "3114 — Numéro national de prévention du suicide",
+          "phone": "3114",
+          "hours": "24/7",
+          "lang": "fr"
+        }
+      ]
+    },
+    "ES": {
+      "name_en": "Spain",
+      "name_ru": "Испания",
+      "lines": [
+        {
+          "name": "Línea 024 de atención a la conducta suicida",
+          "phone": "024",
+          "hours": "24/7",
+          "lang": "es"
+        }
+      ]
+    }
+  }
+}
