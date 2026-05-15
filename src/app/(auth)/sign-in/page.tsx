@@ -8,7 +8,7 @@ export default function SignInPage() {
       <div className="w-full max-w-sm space-y-6">
         <div className="text-center">
           <h1 className="font-serif text-3xl">Welcome to Mira</h1>
-          <p className="mt-2 text-sm text-ink/70">No passwords — we'll email you a magic link.</p>
+          <p className="mt-2 text-sm text-ink/70">No passwords — we&apos;ll email you a magic link.</p>
         </div>
         <form className="space-y-3">
           <input

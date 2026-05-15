@@ -1,4 +1,4 @@
-import Anthropic from "@anthropic-ai/sdk";
+import type Anthropic from "@anthropic-ai/sdk";
 import hotlines from "@/lib/safety/hotlines.json";
 
 export type SafetyCategory =
