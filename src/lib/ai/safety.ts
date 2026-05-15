@@ -29,7 +29,7 @@ const KEYWORD_PATTERNS: Array<{ category: SafetyCategory; pattern: RegExp }> = [
 
   // Russian — same categories, common surface forms
   { category: "suicide", pattern: /(самоуб(ийство|ийц)|покончить с собой|не хочу жить|хочу умереть|свести счёты с жизнью|жить не хочу)/i },
-  { category: "self_harm", pattern: /(резать себя|порезы|самоповреж|причин(ить|яю) себе боль|сжигаю себя)/i },
+  { category: "self_harm", pattern: /(реж[уеют]+\s+себя|резать\s+себя|резал[аи]?\s+себя|порезы|самоповреж|причин(ить|яю) себе боль|сжига[ю|ть]\s+себя)/i },
   { category: "harm_to_others", pattern: /(убью (его|её|их|кого)|причиню вред (ему|ей|им)|нападу на)/i },
   { category: "abuse", pattern: /(избива(ет|ют) меня|насил(ует|овал)|изнасилов|домашнее насилие)/i },
   { category: "acute_crisis", pattern: /(передозировк|выпил(а)? таблетк|истекаю кровью|прямо сейчас в опасности)/i },
