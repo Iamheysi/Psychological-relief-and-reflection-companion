@@ -1,0 +1,48 @@
+{
+  "brand": "Mira",
+  "tagline": "A quiet place to think out loud.",
+  "marketing": {
+    "hero_title": "Talk it through. Privately.",
+    "hero_sub": "Mira is a thoughtful companion you can talk to anytime — no appointments, no judgment, encrypted and yours.",
+    "cta_start": "Start a conversation",
+    "cta_pricing": "See pricing",
+    "not_clinical": "Mira is a wellness companion, not a medical service. If you are in crisis, please use the resources on our Safety page."
+  },
+  "nav": {
+    "chat": "Chat",
+    "conversations": "Conversations",
+    "journal": "Journal",
+    "insights": "Insights",
+    "library": "Library",
+    "settings": "Settings",
+    "safety": "Safety",
+    "pricing": "Pricing"
+  },
+  "tones": {
+    "listen": "Just listen",
+    "reflect": "Reflect",
+    "challenge": "Challenge",
+    "practical": "Practical"
+  },
+  "chat": {
+    "placeholder": "What's on your mind?",
+    "send": "Send",
+    "thinking": "Mira is here…",
+    "limit_soft": "You're close to today's free message limit. Pro removes the cap.",
+    "limit_hard": "You've reached today's free limit. We'll reset at midnight in your time zone, or you can upgrade to keep talking.",
+    "safety_banner": "If anything you said feels urgent, you can reach a real person right now — see our Safety page."
+  },
+  "safety": {
+    "title": "If you're in crisis",
+    "intro": "Mira is a companion, not an emergency service. If you or someone you're with is in immediate danger, please reach a real person now.",
+    "international": "Anywhere in the world",
+    "by_country": "By country"
+  },
+  "legal": {
+    "tos": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "medical": "Medical Disclaimer",
+    "cookies": "Cookie Policy",
+    "aup": "Acceptable Use"
+  }
+}
